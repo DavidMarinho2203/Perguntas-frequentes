@@ -60,7 +60,7 @@ Vou usar também o devtools, para me ajudar nos estilos, pois eu vi que ajuda ba
 
 ## Autor
 
-- Site - [Site Ativo]()
+- Site - [Site Ativo](https://perguntas-frequentes-alpha.vercel.app/)
 - Mentor de Frontend - [@DavidMarinho2203](https://www.frontendmentor.io/profile/DavidMarinho2203)
 
 ## Agradecimentos
