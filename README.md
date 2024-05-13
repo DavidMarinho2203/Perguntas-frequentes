@@ -56,7 +56,6 @@ Vou usar também o devtools, para me ajudar nos estilos, pois eu vi que ajuda ba
 
 - DevTools - Isso me ajudou pelo motivo que eu posso estilizar de forma mais dinamica, no qual é eu não precise usar o liver server do VSCode. Gostei muito desse padrão e vou usá-lo daqui para frente.
 - Remixicon - Este é um artigo incrível que me ajudou a colocar icones. Eu recomendo para quem ainda enão tem seu site próximo de icones.
-*
 
 ## Autor
 
